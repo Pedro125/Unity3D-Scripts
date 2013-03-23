@@ -1,4 +1,4 @@
-My-First-Repo
+Unity3D Game Scripts
 =============
 
-My First Repository on GitHub
+This is a place where I will code and store some Unity3D game scripts being used in the games I develop.
