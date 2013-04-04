@@ -1,5 +1,16 @@
 using UnityEngine;
 using System.Collections;
 
-public class template
+public class template : MonoBehaviour
+
 {
+    void Start()
+    {
+      
+    }
+    
+    void Update()
+    {
+      
+    }
+}
